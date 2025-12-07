@@ -1,0 +1,6 @@
+light
+car
+sd
+name
+car
+banana
